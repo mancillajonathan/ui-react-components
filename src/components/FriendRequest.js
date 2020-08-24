@@ -9,7 +9,7 @@ const FriendRequest = () => {
 		<div className='friendRequest__container'>
 			<img
 				src={friendRequestImg}
-				alt='image-friend-request'
+				alt='friend-request'
 				className='friendRequest__image'
 			/>
 			<div className='friendRequest__background'>
