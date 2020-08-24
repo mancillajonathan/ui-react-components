@@ -7,4 +7,4 @@ I converted an UI Kit into real web components made with React
 ### `Live Demo`
 
 Feel free to see the project.<br />
-See the demo here [UI React Components](https://mancilla-ui-components.vercel.app) let me know what you think.
+See the demo here [UI React Components](https://ui-react-components.vercel.app/) let me know what you think.
