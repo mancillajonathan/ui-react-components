@@ -11,10 +11,14 @@ The purpose of this challenge is to convert a UI Kit into real web components us
 
 ## 🎨 Preview
 
-You can see the live result here → [UI React Components](https://ui-react-components.vercel.app/)Article-preview-component/)
+You can see the live result here → [UI React Components](https://ui-react-components.vercel.app/)
 
 ## 👩🏻‍💻 Technologies
 
 1. HTML
 2. CSS
 3. React
+
+## 📬 Feedback
+
+Let me know what you think! Feel free to send me a DM on **[Twitter](https://twitter.com/mancillajona)**
