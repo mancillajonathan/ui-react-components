@@ -3,6 +3,7 @@ import styled from 'styled-components';
 
 const Container = styled.button`
 	padding: 20px 132px;
+	height: 56px;
 	background: linear-gradient(270deg, #8743ff 0%, #4136f1 100%);
 	box-shadow: 0px 15px 30px rgba(20, 102, 204, 0.16);
 	border-radius: 16px;
@@ -21,7 +22,7 @@ const Text = styled.p`
 const LargeButton = () => {
 	return (
 		<Container>
-			<Text>Butoon text</Text>
+			<Text>Button text</Text>
 		</Container>
 	);
 };
