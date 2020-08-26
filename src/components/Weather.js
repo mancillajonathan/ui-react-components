@@ -7,8 +7,31 @@ const Container = styled.button`
 	background: #ffffff;
 	border-radius: 32px;
 	border-style: none;
+
+	span {
+		font-size: 22px;
+	}
+
+	h1 {
+		font-style: normal;
+		font-weight: 600;
+		font-size: 60px;
+		line-height: 90px;
+		margin: 0;
+		position: relative;
+	}
+
 	& h1::after {
 		content: '°';
+		font-size: 16px;
+		position: absolute;
+		top: -15px;
+	}
+
+	p {
+		font-size: 13px;
+		line-height: 14px;
+		opacity: 1;
 	}
 `;
 
