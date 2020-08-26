@@ -5,6 +5,12 @@ body {
 	font-family: 'Poppins', sans-serif;
 }
 
+.App {
+	
+	display: flex;
+	flex-wrap: wrap;
+}
+
 .App__title {
 	text-align: center;
 }
