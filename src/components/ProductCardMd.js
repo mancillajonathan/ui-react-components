@@ -11,6 +11,11 @@ const Container = styled.div`
 	box-sizing: border-box;
 	border-radius: 20px;
 	box-shadow: 0px 25px 40px rgba(0, 0, 0, 0.03);
+	margin: 0 10px;
+
+	@media screen and (max-width: 550px) {
+		margin: 10px 0;
+	}
 `;
 
 const Image = styled.img`
@@ -36,7 +41,7 @@ const InfoContainer = styled.div`
 
 const Price = styled.span`
 	font-weight: 600;
-	font-size: 12px;
+	font-size: 16px;
 	line-height: 14px;
 	color: #4136f1;
 	&::before {
