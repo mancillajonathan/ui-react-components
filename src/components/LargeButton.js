@@ -8,9 +8,16 @@ const Container = styled.button`
 	box-shadow: 0px 15px 30px rgba(20, 102, 204, 0.16);
 	border-radius: 16px;
 	border-style: none;
+	margin: 10px 15px;
+
+	@media screen and (max-width: 500px) {
+		padding: 20px 120px;
+	}
 `;
 
 const Text = styled.p`
+	width: 100%;
+	min-width: 90px;
 	color: #ffffff;
 	font-size: 14px;
 	font-weight: 600;
