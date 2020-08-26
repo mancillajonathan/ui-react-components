@@ -3,6 +3,7 @@ import './App.css';
 import PlayMusicSmall from './components/PlayMusicSmall';
 import FriendRequest from './components/FriendRequest';
 import RestaurandCard from './components/RestaurandCard';
+import ProductCard from './components/ProductCard';
 
 function App() {
 	return (
@@ -11,6 +12,7 @@ function App() {
 			<PlayMusicSmall />
 			<FriendRequest />
 			<RestaurandCard />
+			<ProductCard />
 		</div>
 	);
 }
