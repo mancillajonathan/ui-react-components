@@ -15,7 +15,9 @@ const Container = styled.button`
 const Weather = () => {
 	return (
 		<Container>
-			<span>☀️</span>
+			<span role='img' aria-label='Sun'>
+				☀️
+			</span>
 			<h1>24</h1>
 			<p>Sunny</p>
 		</Container>
