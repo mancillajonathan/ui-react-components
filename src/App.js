@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import SmallCardLayout from './layouts/SmallCardsLayout';
 import Weather from './components/Weather';
 import SmallButton from './components/SmallButton';
 import LargeButton from './components/LargeButton';
