@@ -15,7 +15,6 @@ const Container = styled.div`
 	box-sizing: border-box;
 	padding: 8px 29px 8px 8px;
 	position: relative;
-	margin-top: 36px;
 `;
 
 const Image = styled.img`
