@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 import './App.css';
 import Weather from './components/Weather';
 import SmallButton from './components/SmallButton';
@@ -8,14 +8,16 @@ import SmallCardsLayout from './layouts/SmallCardsLayout';
 
 function App() {
 	return (
-		<div className='App'>
+		<Fragment>
 			<h1 className='App__title'>UI React Components ⚛</h1>
-			<SmallCardsLayout />
-			<SmallButton />
-			<ProductCardMd />
-			<LargeButton />
-			<Weather />
-		</div>
+			<div className='App'>
+				<SmallCardsLayout />
+				<Weather />
+				<ProductCardMd />
+				<SmallButton />
+				<LargeButton />
+			</div>
+		</Fragment>
 	);
 }
 
