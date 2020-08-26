@@ -5,6 +5,7 @@ import SmallButton from './components/SmallButton';
 import LargeButton from './components/LargeButton';
 import ProductCardMd from './components/ProductCardMd';
 import SmallCardsLayout from './layouts/SmallCardsLayout';
+import CollectionCard from './components/CollectionCard';
 
 function App() {
 	return (
@@ -16,6 +17,7 @@ function App() {
 				<ProductCardMd />
 				<SmallButton />
 				<LargeButton />
+				<CollectionCard />
 			</div>
 		</Fragment>
 	);
