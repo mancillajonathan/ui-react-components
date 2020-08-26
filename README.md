@@ -7,7 +7,7 @@
 ## ✍🏻 Description
 
 This is a UI Kit from [Michael Filipiuk](https://dribbble.com/shots/12636106-Components-A-Free-UI-Kit).
-The purpose of this challenge is to convert a UI Kit into real web components using React.
+The purpose of this challenge is to convert a UI Kit into real web components using React and Styled Components.
 
 ## 🎨 Preview
 
@@ -18,6 +18,7 @@ You can see the live result here → [UI React Components](https://ui-react-comp
 1. HTML
 2. CSS
 3. React
+4. Styled Components
 
 ## 📬 Feedback
 
