@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-import './styles/playMusicSmall.css';
 import playMusicImg from '../assets/images/playMusicSmall.png';
 import playIcon from '../assets/icons/play.svg';
 

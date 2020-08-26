@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-import './styles/restaurandCard.css';
 import restaurant from '../assets/images/restaurant.png';
 import chat from '../assets/icons/chat.svg';
 import heart from '../assets/icons/heart.svg';
