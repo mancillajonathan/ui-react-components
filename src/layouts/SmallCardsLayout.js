@@ -16,6 +16,7 @@ const Layout = styled.div`
 	grid-column-gap: 40px;
 
 	@media screen and (max-width: 750px) {
+		width: auto;
 		grid-template-columns: 342px;
 		grid-template-rows: repeat(4, 100px);
 		grid-row-gap: 10px;
