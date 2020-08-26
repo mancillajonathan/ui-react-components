@@ -4,6 +4,7 @@ import PlayMusicSmall from './components/PlayMusicSmall';
 import FriendRequest from './components/FriendRequest';
 import RestaurandCard from './components/RestaurandCard';
 import ProductCard from './components/ProductCard';
+import Weather from './components/Weather';
 
 function App() {
 	return (
@@ -13,6 +14,7 @@ function App() {
 			<FriendRequest />
 			<RestaurandCard />
 			<ProductCard />
+			<Weather />
 		</div>
 	);
 }
