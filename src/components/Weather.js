@@ -7,6 +7,7 @@ const Container = styled.button`
 	background: #ffffff;
 	border-radius: 32px;
 	border-style: none;
+	margin: 25px 10px;
 
 	span {
 		font-size: 22px;
@@ -32,6 +33,10 @@ const Container = styled.button`
 		font-size: 13px;
 		line-height: 14px;
 		opacity: 1;
+	}
+
+	@media screen and (max-width: 550px) {
+		margin: 10px auto;
 	}
 `;
 
