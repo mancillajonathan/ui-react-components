@@ -2,8 +2,8 @@
 
 ![](https://img.shields.io/github/license/mancillajonathan/ui-react-components?style=for-the-badge)
 ![](https://img.shields.io/github/last-commit/mancillajonathan/ui-react-components?style=for-the-badge)
-![](https://img.shields.io/github/languages/top/mancillajonathan/ui-react-components?style=for-the-badge)
-![](https://img.shields.io/github/stars/mancillajonathan/ui-react-components?style=for-the-badge)
+![](https://img.shields.io/github/package-json/dependency-version/mancillajonathan/ui-react-components/styled-components?style=for-the-badge)
+![](https://img.shields.io/github/package-json/dependency-version/mancillajonathan/ui-react-components/react?style=for-the-badge)
 
 ## ✍🏻 Description
 
