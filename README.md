@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/github/license/mancillajonathan/ui-react-components?style=for-the-badge)
 ![](https://img.shields.io/github/stars/mancillajonathan/ui-react-components?style=for-the-badge)
-![](https://img.shields.io/github/forks/mancillajonathan/ui-react-components?style=for-the-badge)
+![](https://img.shields.io/github/last-commit/mancillajonathan/ui-react-components?style=for-the-badge)
 
 ## ✍🏻 Description
 
@@ -13,7 +13,7 @@ The purpose of this challenge is to convert a UI Kit into real web components us
 
 You can see the live result here → [UI React Components](https://ui-react-components.vercel.app/)
 
-## 👩🏻‍💻 Technologies
+## 👨🏽‍💻 Technologies
 
 1. HTML
 2. CSS
