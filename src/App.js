@@ -6,12 +6,14 @@ import LargeButton from './components/LargeButton';
 import ProductCardMd from './components/ProductCardMd';
 import SmallCardsLayout from './layouts/SmallCardsLayout';
 import CollectionCard from './components/CollectionCard';
+import FilesUploading from './components/FilesUploading';
 
 function App() {
 	return (
 		<Fragment>
 			<h1 className='App__title'>UI React Components ⚛</h1>
 			<div className='App'>
+				<FilesUploading />
 				<SmallCardsLayout />
 				<Weather />
 				<ProductCardMd />
