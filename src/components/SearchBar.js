@@ -11,11 +11,11 @@ const Container = styled.div`
 	position: relative;
 
 	.searchIcon {
-        width: 12px;
-        height: 12px;
-        position: absolute;
-        left: 20px;
-        z-index: 1;
+		width: 12px;
+		height: 12px;
+		position: absolute;
+		left: 20px;
+		z-index: 1;
 	}
 `;
 
@@ -26,11 +26,15 @@ const InputSearch = styled.input`
 	border-radius: 16px;
 	border-style: none;
 	padding: 20px 0 20px 44px;
-	font-size: 12px;
-	line-height: 14px;
-	color: #000000;
-	opacity: 0.4;
 	box-sizing: border-box;
+
+	&::placeholder {
+		font-family: 'Poppins';
+		font-size: 12px;
+		line-height: 14px;
+		color: #000000;
+		opacity: 0.4;
+	}
 `;
 
 const ControlButton = styled.button`
