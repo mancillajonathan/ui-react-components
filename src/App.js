@@ -8,12 +8,14 @@ import SmallCardsLayout from './layouts/SmallCardsLayout';
 import CollectionCard from './components/CollectionCard';
 import FilesUploading from './components/FilesUploading';
 import SearchBar from './components/SearchBar';
+import BookCard from './components/BookCard';
 
 function App() {
 	return (
 		<Fragment>
 			<h1 className='App__title'>UI React Components ⚛</h1>
 			<div className='App'>
+				<BookCard/>
 				<SearchBar />
 				<FilesUploading />
 				<SmallCardsLayout />
