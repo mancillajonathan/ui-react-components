@@ -10,6 +10,7 @@ import FilesUploading from './components/FilesUploading';
 import SearchBar from './components/SearchBar';
 import BookCard from './components/BookCard';
 import NewPaymentMethod from './components/NewPaymentMethod';
+import RightButton from './components/RightButton';
 
 function App() {
 	return (
@@ -26,6 +27,7 @@ function App() {
 				<SmallButton />
 				<LargeButton />
 				<CollectionCard />
+				<RightButton/>
 			</div>
 		</Fragment>
 	);
