@@ -11,6 +11,7 @@ import SearchBar from './components/SearchBar';
 import BookCard from './components/BookCard';
 import NewPaymentMethod from './components/NewPaymentMethod';
 import RightButton from './components/RightButton';
+import AddNewCard from './components/AddNewCard';
 
 function App() {
 	return (
@@ -28,6 +29,7 @@ function App() {
 				<LargeButton />
 				<CollectionCard />
 				<RightButton/>
+				<AddNewCard/>
 			</div>
 		</Fragment>
 	);
