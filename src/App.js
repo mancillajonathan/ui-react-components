@@ -12,12 +12,14 @@ import BookCard from './components/BookCard';
 import NewPaymentMethod from './components/NewPaymentMethod';
 import RightButton from './components/RightButton';
 import AddNewCard from './components/AddNewCard';
+import Notification from './components/Notification';
 
 function App() {
 	return (
 		<Fragment>
 			<h1 className='App__title'>UI React Components ⚛</h1>
 			<div className='App'>
+				<Notification />
 				<NewPaymentMethod />
 				<BookCard />
 				<SearchBar />
