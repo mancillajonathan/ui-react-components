@@ -14,12 +14,14 @@ import RightButton from './components/RightButton';
 import AddNewCard from './components/AddNewCard';
 import Notification from './components/Notification';
 import Profile from './components/Profile';
+import Navbar from './components/Navbar';
 
 function App() {
 	return (
 		<Fragment>
 			<h1 className='App__title'>UI React Components</h1>
 			<div className='App'>
+				<Navbar/>
 				<Profile/>
 				<Notification />
 				<NewPaymentMethod />
