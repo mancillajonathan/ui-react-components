@@ -15,12 +15,14 @@ import AddNewCard from './components/AddNewCard';
 import Notification from './components/Notification';
 import Profile from './components/Profile';
 import Navbar from './components/Navbar';
+import ProfileMoreInfo from './components/ProfileMoreInfo';
 
 function App() {
 	return (
 		<Fragment>
 			<h1 className='App__title'>UI React Components</h1>
 			<div className='App'>
+				<ProfileMoreInfo/>
 				<Navbar/>
 				<Profile/>
 				<Notification />
